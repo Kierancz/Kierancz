@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Kierancz/Kierancz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer focused on building tools, communities, and apps that empower others.
 
-Here are some ideas to get you started:
+#### Top Techologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TypeScript
+- React/Preact
+- React Native
+- NodeJS
+
+#### Interests
+
+- [object-oriented ontology](https://en.wikipedia.org/wiki/Object-oriented_ontology)
+- micro-everything - frontends, services, homes, diatoms, you name it!
+- [semantic web](https://en.wikipedia.org/wiki/Semantic_Web)
+- bikes and hikes!
+- [design systems](https://www.nngroup.com/articles/design-systems-101/) - I've built two of these at $bn scale
+- photography
+
+#### More
+
+- [minimalist website](https://kicz.me)
+- [old fancier website](https://kicz.vercel.app)
+
