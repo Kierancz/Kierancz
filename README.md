@@ -2,6 +2,9 @@
 
 I'm a software engineer focused on building tools, communities, and apps that empower others.
 
+<details>
+  <summary>Expand for more!</summary>
+
 #### Top Techologies
 
 - TypeScript
@@ -15,11 +18,15 @@ I'm a software engineer focused on building tools, communities, and apps that em
 - micro-everything - frontends, services, homes, diatoms, you name it!
 - [semantic web](https://en.wikipedia.org/wiki/Semantic_Web)
 - bikes and hikes!
-- [design systems](https://www.nngroup.com/articles/design-systems-101/) - I've built two of these at $bn scale
+- [design systems](https://www.nngroup.com/articles/design-systems-101/) - I've built two of these at bn$ scale
 - photography
+- design and accessibility
 
 #### More
 
 - [minimalist website](https://kicz.me)
 - [old fancier website](https://kicz.vercel.app)
+  
+</details>
+
 
