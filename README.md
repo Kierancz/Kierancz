@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-I'm a software engineer focused on building tools, communities, and apps that empower others.
+I'm a software engineer focused on building tools, communities, and web and native apps that empower others.
 
 <details>
   <summary>Expand for more!</summary>
-
-#### Top Techologies
-
-- TypeScript
-- React/Preact
-- React Native
-- NodeJS
 
 #### Interests
 
